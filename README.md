@@ -17,7 +17,7 @@
 
 ##  Projects
 
-###  Stroke Analysis Project
+###  Stroke Data Analysis 
 > - An end-to-end exploratory and predictive analytics project for stroke risk analysis
 > - Developed a web-based predictive model to assess stroke risk using patient health data.
 > - Tools used: Python, Tkinter, ML models, Data Visualization
