@@ -18,11 +18,11 @@
 ##  Projects
 
 ###  Stroke Analysis Project
-> An end-to-end exploratory and predictive analytics project for stroke risk analysis
-> Developed a web-based predictive model to assess stroke risk using patient health data.
-> Tools used: Python, Tkinter, ML models, Data Visualization
+> - An end-to-end exploratory and predictive analytics project for stroke risk analysis
+> - Developed a web-based predictive model to assess stroke risk using patient health data.
+> - Tools used: Python, Tkinter, ML models, Data Visualization
 
 ### Chronic Kidney Disease prediction
-> A Machine learning project to predict CKD using clinical data
-> Handled missing data, performed EDA, and built models for early disease detection
-> Tools used: Python, ML models
+> - A Machine learning project to predict CKD using clinical data
+> - Handled missing data, performed EDA, and built models for early disease detection
+> - Tools used: Python, ML models
