@@ -18,8 +18,8 @@
 ##  Projects
 
 ### Flights Data Analysis  [Ongoing]                                                     
-> -Develop a data-driven framework to analyze flight performance and delay patterns across New York airports from 2015 to 2024.
-> -Perform data extraction, cleaning, and integration of primary flight data and secondary delay cause data, followed by building a Hive Data Mart with a Star schema.
+> - Develop a data-driven framework to analyze flight performance and delay patterns across New York airports from 2015 to 2024.
+> - Perform data extraction, cleaning, and integration of primary flight data and secondary delay cause data, followed by building a Hive Data Mart with a Star schema.
 > - Deploy interactive dashboards using Tableau to provide actionable insights and recommendations for operational improvements.
 > - Tools: R, RStudio, Hadoop HDFS, Apache Hive, Tableau, Apache Spark.
 
